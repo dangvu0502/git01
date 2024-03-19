@@ -1,0 +1,23 @@
+- Terminology: 
++, Version control
++, Repository (remote - local)
++, Github
+
+- Git basics:
++, git clone
++, git init
++, git config
++, git commit
++, git add 
++, git push
++, git pull
++, git merge
++, pull request
++, git fetch
++, git rebase
++, git reset
++, git revert
++, git cherry-pick
++, git checkout
++, git branch
+
